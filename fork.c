@@ -9,8 +9,8 @@ int main(){// fork lo que hace es estar creabdo el clon y te regresa un un numer
     }else {
         printf("soy el proceso padre; pid = %d\n", pid);
     }
-    //}//se va a reciclar  y ya no va a poder crear mas procesos
+    //}
     return 0;
-    //ya no lo ejecutes se va a volver loco y ya no vas a poder poner mas procesos
+  
 
 }
